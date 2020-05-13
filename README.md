@@ -1,3 +1,2 @@
-# django_helloworld
-
-teste
+# helloworld
+Django helloworld app
